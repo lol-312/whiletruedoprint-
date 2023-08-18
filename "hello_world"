@@ -1,1 +1,1 @@
-while true do print("hello_world") end 
+while wait() do print("hello_world") end 
